@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Put files/directories that should be ignored in this file when uploading
 # to a Chef Infra Server or Supermarket.
 # Lines that start with '# ' are comments.
@@ -108,3 +109,16 @@ CODE_OF_CONDUCT*
 ###########
 .vagrant
 Vagrantfile
+=======
+# Put files/directories that should be ignored in this file.
+# Lines that start with '# ' are comments.
+
+# emacs
+*~
+
+# vim
+*.sw[a-z]
+
+# subversion
+*/.svn/*
+>>>>>>> 0d4d00990353fa0aeb9f356e8ca8d436ece4252f
